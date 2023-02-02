@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">week-7-assignment</string>
+    <string name="body_mass_index_2">Body Mass Index</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="result">Body Mass Index Is %s</string>
+</resources>
