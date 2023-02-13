@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">week-9</string>
+    <string name="welcome">WELCOME!</string>
+    <string name="home">Home</string>
+    <string name="tdeeCalculator">TDEE Calculator</string>
+    <string name="heightInput">Height(cm)</string>
+    <string name="weightInput">Weight(kg)</string>
+    <string name="ageInput">Age</string>
+    <string name="headingTDEE">Total Daily Energy Expenditure</string>
+    <string name="calculator">Calculator</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="selectIntensity">Select intensity</string>
+    <string name="mealSelect">Meal Select</string>
+</resources>
